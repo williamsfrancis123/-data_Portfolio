@@ -1,2 +1,2 @@
 tittle: Williams Francis
-theme: jekyll-minimal
+theme: gem "jekyll-minimal"
